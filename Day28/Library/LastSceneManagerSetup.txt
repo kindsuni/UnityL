@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/User/Desktop/Day28_KinematicEquations2/Assets/Jump.unity
+  isLoaded: 1
+  isActive: 1
