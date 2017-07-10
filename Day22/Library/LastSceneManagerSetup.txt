@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/User/Desktop/Day24_Mob_Skeleton_MeleeCombat/Assets/MeleeCombat.unity
+  isLoaded: 1
+  isActive: 1
