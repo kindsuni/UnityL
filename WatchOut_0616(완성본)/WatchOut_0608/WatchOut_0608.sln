@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchOut_0608", "WatchOut_0608.csproj", "{A00A2C97-216B-C065-5F0B-772BE3ED11EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00A2C97-216B-C065-5F0B-772BE3ED11EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00A2C97-216B-C065-5F0B-772BE3ED11EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00A2C97-216B-C065-5F0B-772BE3ED11EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00A2C97-216B-C065-5F0B-772BE3ED11EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
