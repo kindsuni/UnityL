@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniProject_20170607", "MiniProject_20170607.csproj", "{274252E5-2780-9C7B-B118-3BD36A34B108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniProject_20170607.Editor", "MiniProject_20170607.Editor.csproj", "{7E07E618-5414-8445-4E20-20CDCC85BC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274252E5-2780-9C7B-B118-3BD36A34B108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274252E5-2780-9C7B-B118-3BD36A34B108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274252E5-2780-9C7B-B118-3BD36A34B108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274252E5-2780-9C7B-B118-3BD36A34B108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E07E618-5414-8445-4E20-20CDCC85BC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E07E618-5414-8445-4E20-20CDCC85BC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E07E618-5414-8445-4E20-20CDCC85BC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E07E618-5414-8445-4E20-20CDCC85BC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
