@@ -12,12 +12,13 @@ public class MoveClouds : MonoBehaviour {
     public List<Clouds> clouds;
    public float moveSpeed = 0.5f;
     float[] spd;
-    float[] cloudsposition;
-
+    float[] cloudsposition = new float[1];
+   
     // Use this for initialization
     void Start () {      
         spd = new float[clouds.Count];
-        cloudsposition = new float[clouds.Count];
+     
+      
         SetMove();               
     }
 	
@@ -56,8 +57,11 @@ public class MoveClouds : MonoBehaviour {
         {
             clouds[i].cld.transform.Translate(spd[i]*Time.deltaTime,0, 0);
           //  print("Ismoving :"+clouds[i].cld.name+" Speed Is: " +spd[i]);
-            if(clouds[i].cld.transform.position.x >= 15)
+            if(clouds[i].cld.transform.position.x >=Camera.main.pixelWidth/40)
             {
+                int pos = Random.Range(0, 1);
+                cloudsposition[pos] = clouds[i].cld.transform.position.x;
+
                 spd[i] = Random.Range(moveSpeed * -1, moveSpeed);
                 if(spd[i]<0.1 && spd[i]>-0.1)
                 {
@@ -71,7 +75,7 @@ public class MoveClouds : MonoBehaviour {
                 SetPosition(clouds[i]);
                 
             }
-            if (clouds[i].cld.transform.position.x <= -15)
+            if (clouds[i].cld.transform.position.x <= -Camera.main.pixelWidth/40)
             {
                 spd[i] = Random.Range(-1f, 1f);
                 if (spd[i] < 0.1 && spd[i] > -0.1)
@@ -91,8 +95,5 @@ public class MoveClouds : MonoBehaviour {
         }
 
     }
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	
 }
