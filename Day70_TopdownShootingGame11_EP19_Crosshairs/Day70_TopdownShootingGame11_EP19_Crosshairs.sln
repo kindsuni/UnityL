@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day70_TopdownShootingGame11_EP19_Crosshairs", "Day70_TopdownShootingGame11_EP19_Crosshairs.csproj", "{9ED6CFE4-C678-8E3B-B26A-456F8FD2F909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day70_TopdownShootingGame11_EP19_Crosshairs.Editor", "Day70_TopdownShootingGame11_EP19_Crosshairs.Editor.csproj", "{895F328C-7DFC-924A-6E9C-167F274A04CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED6CFE4-C678-8E3B-B26A-456F8FD2F909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED6CFE4-C678-8E3B-B26A-456F8FD2F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED6CFE4-C678-8E3B-B26A-456F8FD2F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED6CFE4-C678-8E3B-B26A-456F8FD2F909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895F328C-7DFC-924A-6E9C-167F274A04CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895F328C-7DFC-924A-6E9C-167F274A04CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895F328C-7DFC-924A-6E9C-167F274A04CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895F328C-7DFC-924A-6E9C-167F274A04CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

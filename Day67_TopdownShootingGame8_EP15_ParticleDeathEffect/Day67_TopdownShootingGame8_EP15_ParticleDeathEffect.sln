@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day67_TopdownShootingGame8_EP15_ParticleDeathEffect", "Day67_TopdownShootingGame8_EP15_ParticleDeathEffect.csproj", "{E5460386-8E9E-65D1-9B93-ADBD816EADB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day67_TopdownShootingGame8_EP15_ParticleDeathEffect.Editor", "Day67_TopdownShootingGame8_EP15_ParticleDeathEffect.Editor.csproj", "{70C5A0F0-A746-55E4-CEFD-802668964F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5460386-8E9E-65D1-9B93-ADBD816EADB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5460386-8E9E-65D1-9B93-ADBD816EADB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5460386-8E9E-65D1-9B93-ADBD816EADB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5460386-8E9E-65D1-9B93-ADBD816EADB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C5A0F0-A746-55E4-CEFD-802668964F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C5A0F0-A746-55E4-CEFD-802668964F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C5A0F0-A746-55E4-CEFD-802668964F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C5A0F0-A746-55E4-CEFD-802668964F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

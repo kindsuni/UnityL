@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day64_TopdownShootingGame5_EP10_MapConnectivity", "Day64_TopdownShootingGame5_EP10_MapConnectivity.csproj", "{72658653-0FD6-38B6-3C56-EEB3E267BD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day64_TopdownShootingGame5_EP10_MapConnectivity.Editor", "Day64_TopdownShootingGame5_EP10_MapConnectivity.Editor.csproj", "{D0247B33-5857-BD22-07D6-E9FCB31621B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72658653-0FD6-38B6-3C56-EEB3E267BD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72658653-0FD6-38B6-3C56-EEB3E267BD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72658653-0FD6-38B6-3C56-EEB3E267BD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72658653-0FD6-38B6-3C56-EEB3E267BD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0247B33-5857-BD22-07D6-E9FCB31621B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0247B33-5857-BD22-07D6-E9FCB31621B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0247B33-5857-BD22-07D6-E9FCB31621B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0247B33-5857-BD22-07D6-E9FCB31621B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day61_TopdownShootingGame2_EP05", "Day61_TopdownShootingGame2_EP05.csproj", "{EF2C334A-DF93-30BB-B3C7-D16D1F27B8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day61_TopdownShootingGame2_EP05.Editor", "Day61_TopdownShootingGame2_EP05.Editor.csproj", "{60C0E03A-60F6-553B-B3CE-186F1C02DE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2C334A-DF93-30BB-B3C7-D16D1F27B8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2C334A-DF93-30BB-B3C7-D16D1F27B8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2C334A-DF93-30BB-B3C7-D16D1F27B8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2C334A-DF93-30BB-B3C7-D16D1F27B8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C0E03A-60F6-553B-B3CE-186F1C02DE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C0E03A-60F6-553B-B3CE-186F1C02DE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C0E03A-60F6-553B-B3CE-186F1C02DE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C0E03A-60F6-553B-B3CE-186F1C02DE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
